@@ -1,6 +1,6 @@
 # Eai! 🙃
 
-## Área de Estudos
+## 🔍 Área de Estudos
 
 Eu estou cursando Sistemas de Informações na FIAP, e pretendo atuar em diversas áreas antes de definir minha especificação. Atualmente eu estou na área Web, principalmente em desenvolvimento frontend.
 
