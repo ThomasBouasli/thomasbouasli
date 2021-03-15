@@ -14,7 +14,7 @@ Me interesso muito por desenvolvimento de software e arquitetura de software, go
 
 ## 📚 Bibliografia
 
-Livros que me interessaram no área de TI
+Livros que li da área de TI
 
 - Clean Code
 - Nature of Code
