@@ -2,15 +2,15 @@
 
 ## 🔍 Área de Estudos
 
-Eu estou cursando Sistemas de Informações na FIAP, e pretendo atuar em diversas áreas antes de definir minha especificação. Entretanto, já tenho cerca de 2 anos de estudos em desenvolvimento web, e a grande maioria deles em React. Atualmente busco aprender sobre as boas práticas do desenvolvimento, metodologias, design patterns , arquitetura e engenharia de software. Resumidamente a parte estrutural do Software, um pouco mais distante dos detalhes de implementação.
+Eu estou cursando Sistemas de Informações na FIAP, e pretendo atuar em diversas áreas antes de definir minha especificação. Entretanto, já tenho cerca de 2 anos de estudos em desenvolvimento web, e a grande maioria deles em React, e 5 anos em programação como um todo, como scripts batch, python e C# para nomear alguma das linguagens. Atualmente busco aprender sobre as boas práticas do desenvolvimento, metodologias, design patterns , arquitetura e engenharia de software. Resumidamente a parte estrutural do Software, um pouco mais distante dos detalhes de implementação.
 
 ## 📅 Planos Pessoais
 
-Eu adoraria poder fazer parte de um time de desenvolvimento de jogos. Quero estagiar o quanto antes para poder aplicar o que já conheço em um time e realmente ver o meu esforço em algo que outras pessoas valorizam e utilizam. Meu objetivo principal é poder trabalhar em algo que eu possa me orgulhar de ter feito parte!
+Quero estagiar o quanto antes para poder aplicar o que já conheço em um time e realmente ver o meu esforço em algo que outras pessoas valorizam e utilizam. Meu objetivo principal é poder trabalhar em algo que eu possa me orgulhar de ter feito parte! Além disso, eu adoraria poder fazer parte de um time de desenvolvimento de jogos, pois pela minha experiência, é uma tarefa bem desafiadora e multidiciplinar, acredito ser uma ótima forma de crescer como desenvolvedor.
 
 ## 🤔 Interesses
 
-Me interesso muito por desenvolvimento de software e arquitetura de software, gosto de ler e escrever códigos que são bonitos (Estou lendo Clean Code do Uncle Bob para ajudar com isso)! Composição musical, animação e modelagem 3D, são outro grupo de interesses que um dia gostaria de aplicar para desenvolver um jogo. Além disso, inteligência artificial, que foi o que me fez começar na área, porém deixei de lado, acredito que era uma tarefa muito ambiciosa para alguém que estava começando.
+Me interesso muito por desenvolvimento de software e arquitetura de software, gosto de ler e escrever códigos que são bonitos (Estou lendo Clean Code do Uncle Bob para ajudar com isso)! Composição musical, animação e modelagem 3D, são outro grupo de interesses que um dia gostaria de aplicar para desenvolver um jogo. Além disso, inteligência artificial, que foi o que me fez começar na área, porém deixei de lado, acredito que era uma tarefa muito ambiciosa para alguém que estava começando, mas não saí de mão abanando, foi o que me introduziu a estruturas de dados e complexidade de algoritimos.
 
 ## 📚 Bibliografia
 
