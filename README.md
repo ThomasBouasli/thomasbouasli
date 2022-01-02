@@ -1,5 +1,3 @@
-![pixelart](https://user-images.githubusercontent.com/78673858/146997321-04ac6e73-4a12-4289-90bc-42e61dccd6dd.png)
-
 # Hi, I'm Thomas! 👋
 
 
