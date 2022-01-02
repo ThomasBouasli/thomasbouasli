@@ -31,7 +31,12 @@ All projects developed for academic reasons are avaiable in the [FIAP](https://g
 
 ### Personal
 
-Personal projects are located on my [Github Projects](https://github.com/ThomasBouasli?tab=projects) with a detailed explanation of the why and how.
+| Project | Type | Description | State |
+|---|---|---|---|
+| Tamagotchi | `Fullstack` | A Tamagotchi game with NFT integration built with the Unity Game Engine  | `Dev` |
+| Porfolio Site | `Fullstack` | A Portfolio site  | `To Do` |
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.thomasbouasli.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomasbouasli/)
