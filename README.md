@@ -17,22 +17,11 @@ I'm a information systems student at FIAP.
 - MongoDB Atlas + Mongoose
 
 ## 💬 Soft Skills
+
 - Values communicating eficiently
 - I Don't let ego influence my work
 - Emotional Inteligence
-## Projects
-
-### Academic
-
-All projects developed for academic reasons are avaiable in the [FIAP](https://github.com/ThomasBouasli/FIAP) monorepo.
-
-
-### Personal
-
-| Project | Type | Description | State |
-|---|---|---|---|
-| Tamagotchi | `Fullstack` | A Tamagotchi game with NFT integration built with the Unity Game Engine  | `Dev` |
-| Porfolio Site | `Fullstack` | A Portfolio site  | `To Do` |
+- I value doing the right thing over beeing right
 
 
 ## 🔗 Links
