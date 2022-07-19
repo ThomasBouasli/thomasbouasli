@@ -15,6 +15,12 @@ I'm a information systems student at FIAP.
 - Node + Express
 - JWT
 - MongoDB Atlas + Mongoose
+- Postgres
+- Docker
+- Sequelize
+- Prisma
+- Styled Components
+- Clean Code and Clean Architecture
 
 ## 💬 Soft Skills
 
