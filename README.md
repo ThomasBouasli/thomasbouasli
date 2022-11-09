@@ -22,13 +22,6 @@ I'm a information systems student at FIAP.
 - Styled Components
 - Clean Code and Clean Architecture
 
-## 💬 Soft Skills
-
-- Values communicating eficiently
-- I Don't let ego influence my work
-- Emotional Inteligence
-- I value doing the right thing over beeing right
-
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomasbouasli/)
